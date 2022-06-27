@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arabibinteshofik
+- 👀 I’m interested in Cpp nad Python
+- 🌱 I’m currently learning currently working on GUI in python and Cpp
